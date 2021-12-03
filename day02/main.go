@@ -35,7 +35,7 @@ func part1() {
 
 		}
 	}
-	fmt.Println(v*h)
+	fmt.Println(v * h)
 
 }
 
@@ -62,5 +62,5 @@ func part2() {
 
 		}
 	}
-	fmt.Println(v*h)
+	fmt.Println(v * h)
 }
